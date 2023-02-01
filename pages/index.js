@@ -11,7 +11,7 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Welcome to my app!" />
+        <Header title="Welcome to my minp!" />
         <p className="description">
           Get started by NFT <code>pages/index.js</code>
         </p>
